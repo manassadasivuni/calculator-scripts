@@ -1,0 +1,1 @@
+This is just a few Python scripts that I can use on my calculator that weren't built-in. The scripts are designed for the CASIO CG50 but they might work on other calculators that support Python as well.
