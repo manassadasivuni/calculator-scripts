@@ -3,7 +3,7 @@ factnr = 1
 factr = 1
 counter = 1
 
-print("In the form (A + Bx)^n")
+print("(A + Bx)^n")
 A = int(input("A = "))
 B = int(input("B = "))
 n = int(input("n = "))
@@ -26,3 +26,4 @@ for r in range(n+1):
 
     print("x power " + str(r))
     print(C)
+    
